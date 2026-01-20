@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Life Insurance Calculator (Hebrew)",
+  "description": "A comprehensive life insurance needs calculator in Hebrew. It assesses financial assets, existing policies, and family needs to determine the coverage gap or surplus, with PDF export capabilities.",
+  "requestFramePermissions": []
+}
